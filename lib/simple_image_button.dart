@@ -121,7 +121,7 @@ class ImageButtonFlex {
   final int topFlex;
   /// text area flex
   final int textFlex;
-  // botton flex
+  // button bottom flex
   final int bottomFlex;
 
   ImageButtonFlex(this.topFlex, this.textFlex, this.bottomFlex);
