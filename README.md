@@ -5,7 +5,7 @@
 <br>
 
 ### blog
-[https://stoneparkblog.com/flutter-image-button/](https://stoneparkblog.com/flutter-image-button/)
+[https://parkstone.gitbook.io/blog/flutter-and-dart/imagebutton](https://parkstone.gitbook.io/blog/flutter-and-dart/imagebutton)
 
 ### preview
 ![3](./preview.png)<br>
